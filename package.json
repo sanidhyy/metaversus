@@ -1,7 +1,21 @@
 {
-  "name": "metaverse13",
+  "name": "metaversus",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
+  "author": "Sanidhya Kr. Verma",
+  "description": "The Next Generation Multiverse App using React JS",
+  "keywords": [
+    "reactjs",
+    "react",
+    "metaverse-app",
+    "vr",
+    "modern-ui/ux",
+    "js",
+    "javascript",
+    "html",
+    "css"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
