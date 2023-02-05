@@ -43,7 +43,9 @@ const Footer = () => (
           <h4 className="font-extrabold text-[24px] text-white">Metaversus</h4>
           <p className="font-normal text-[14px] text-white opacity-50">
             Copyright &copy; {new Date().getFullYear()} -{" "}
-            {new Date().getFullYear() + 1} Metaversus. All Rights Reserved.
+            {new Date().getFullYear() + 1}{" "}
+            <span className="font-extrabold">Metaversus</span>. All Rights
+            Reserved.
           </p>
 
           <div className="flex gap-4">
@@ -53,6 +55,7 @@ const Footer = () => (
                   src={social.icon}
                   alt={social.name}
                   key={social.name}
+                  title={social.name}
                   className="w-[24px] h-[24px] object-contain cursor-pointer"
                 />
               </a>
