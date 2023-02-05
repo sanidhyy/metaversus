@@ -22,11 +22,18 @@ const Navbar = () => (
       <h2 className="font-extrabold text-[24px] loading-[30px] text-white">
         METAVERSUS
       </h2>
-      <img
-        src="/menu.svg"
-        alt="Menu"
-        className="w-[24px] h-[24px] object-contain"
-      />
+      <a
+        href="https://github.com/Technical-Shubham-tech/metaversus"
+        target="_blank"
+        rel="noreferrer noopener"
+        title="Source Code"
+      >
+        <img
+          src="/github.svg"
+          alt="Menu"
+          className="w-[24px] h-[24px] object-contain"
+        />
+      </a>
     </div>
   </motion.nav>
 );
