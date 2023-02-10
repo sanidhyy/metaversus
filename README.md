@@ -3,7 +3,7 @@
 ![Modern Metaverse App using React JS](/.github/images/img_main.png "Modern Metaverse App using React JS")
 
 [![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Technical-Shubham-tech "Ask Me Anything!")
-[![GitHub license](https://img.shields.io/github/license/Technical-Shubham-tech/metaversus)](https://github.com/Technical-Shubham-tech/metaversus/blob/main/LICENSE.md "GitHub license")
+[![GitHub license](https://img.shields.io/github/license/Technical-Shubham-tech/metaversus?)](https://github.com/Technical-Shubham-tech/metaversus/blob/main/LICENSE.md "GitHub license")
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Technical-Shubham-tech/metaversus/commits/main "Maintenance")
 [![GitHub branches](https://badgen.net/github/branches/Technical-Shubham-tech/metaversus?max-age=2592000)](https://github.com/Technical-Shubham-tech/metaversus/branches "GitHub branches")
 [![Github commits](https://badgen.net/github/commits/Technical-Shubham-tech/metaversus/main?max-age=2592000)](https://github.com/Technical-Shubham-tech/metaversus/commits "Github commits")
