@@ -23,7 +23,7 @@ const Navbar = () => (
         METAVERSUS
       </h2>
       <a
-        href="https://github.com/Technical-Shubham-tech/metaversus"
+        href="https://github.com/sanidhyy/metaversus"
         target="_blank"
         rel="noreferrer noopener"
         title="Source Code"
