@@ -72,7 +72,7 @@ export const socials = [
   {
     name: "Twitter",
     icon: "/twitter.svg",
-    url: "https://www.twitter.com/_sanidhyy",
+    url: "https://x.com/_sanidhyy",
   },
   {
     name: "Linkedin",
