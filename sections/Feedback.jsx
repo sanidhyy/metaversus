@@ -16,7 +16,7 @@ const Feedback = () => (
     >
       <motion.div
         variants={fadeIn("right", "tween", 0.2, 1)}
-        className="flex-[0.5] lg:max-w-[370px] flex justify-end flex-col gradient-05 sm:p-8 p-4 rounded-[32px] border-[1px] border-[#6a6a6a] relative"
+        className="flex-[0.5] lg:max-w-[370px] flex justify-end flex-col gradient-05 sm:p-8 p-4 rounded-[32px] border border-[#6a6a6a] relative"
       >
         <div className="feedback-gradient" />
         <div>
