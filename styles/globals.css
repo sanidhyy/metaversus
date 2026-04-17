@@ -1,10 +1,13 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+
+@theme {
+  --color-primary-black: #1a232e;
+  --color-secondary-white: #c7c7c7;
+
+  --ease-out-flex: cubic-bezier(0.05, 0.6, 0.4, 0.9);
+}
 
 * {
-  margin: 0;
-  padding: 0;
   box-sizing: border-box;
   font-family: "Eudoxus Sans", sans-serif;
   scroll-behavior: smooth;
