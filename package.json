@@ -37,7 +37,7 @@
     "eslint-plugin-jsx-a11y": "^6.6.1",
     "eslint-plugin-react": "^7.31.10",
     "eslint-plugin-react-hooks": "^7.1.1",
-    "postcss": "^8.5.12",
+    "postcss": "^8.5.14",
     "tailwindcss": "^4.2.4"
   }
 }
