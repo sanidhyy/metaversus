@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "eslint-config-next": "16.2.6",
-    "framer-motion": "^12.38.0",
+    "framer-motion": "^12.40.0",
     "next": "16.2.6",
     "react": "19.2.6",
     "react-dom": "19.2.6"
