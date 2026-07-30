@@ -23,7 +23,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "eslint-config-next": "16.2.11",
+    "eslint-config-next": "16.2.12",
     "framer-motion": "^12.42.2",
     "next": "16.2.11",
     "react": "19.2.8",
