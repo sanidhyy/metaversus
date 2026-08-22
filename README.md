@@ -1,6 +1,6 @@
-# Modern Metaverse App using React JS
+# Modern Metaverse App using Next.js
 
-![Modern Metaverse App using React JS](/.github/images/img_main.png "Modern Metaverse App using React JS")
+![Modern Metaverse App using Next.js](/.github/images/img_main.png "Modern Metaverse App using Next.js")
 
 [![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/sanidhyy "Ask Me Anything!")
 [![GitHub license](https://img.shields.io/github/license/sanidhyy/metaversus?)](https://github.com/sanidhyy/metaversus/blob/main/LICENSE.md "GitHub license")
@@ -89,8 +89,8 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## :page_with_curl: Deploy on Netlify
 
-The simplest way to deploy your React.js app is to use the [Netlify Platform](https://app.netlify.com/start) - a powerful platform for modern web projects.
+The simplest way to deploy your Next.js app is to use the [Netlify Platform](https://app.netlify.com/start) - a powerful platform for modern web projects.
 
-Explore the [Netlify deployment documentation](https://docs.netlify.com/site-deploys/create-deploys) for step-by-step instructions on deploying your React.js app on Netlify.
+Explore the [Netlify deployment documentation](https://docs.netlify.com/site-deploys/create-deploys) for step-by-step instructions on deploying your Next.js app on Netlify.
 
 Happy coding, and feel free to share your thoughts and improvements with the [Netlify community](https://community.netlify.com)!
