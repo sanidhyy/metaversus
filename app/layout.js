@@ -8,6 +8,7 @@ const RootLayout = ({ children }) => (
         rel="stylesheet"
         href="https://stijndv.com/fonts/Eudoxus-Sans.css"
       />
+      <title>Metaversus - Enter the Metaverse</title>
     </head>
     <body>{children}</body>
   </html>
